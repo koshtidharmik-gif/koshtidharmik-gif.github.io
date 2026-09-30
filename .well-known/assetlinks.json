@@ -1,8 +1,13 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.koshtidharmik.ptecollocation",
-        "sha256_cert_fingerprints": ["DD:8D:BB:E0:D8:A9:B4:8E:BE:E4:AF:27:35:80:9F:FF:03:D5:18:D4:B3:37:84:EC:99:4C:62:61:BA:42:5E:57"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.koshtidharmik.ptecollocation",
+      "sha256_cert_fingerprints": [
+        "2B:BC:2F:B3:D5:DF:F3:45:CC:3D:5E:9B:0C:7C:44:8F:B6:FA:59:4E:7B:A4:3F:14:83:2E:FB:32:EC:D6:81:53",
+        "DD:8D:BB:E0:D8:A9:B4:8E:BE:E4:AF:27:35:80:9F:FF:03:D5:18:D4:B3:37:84:EC:99:4C:62:61:BA:42:5E:57"
+      ]
+    }
+  }
+]
